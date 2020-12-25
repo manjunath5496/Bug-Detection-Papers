@@ -33,4 +33,36 @@ Automated Approaches for the Retrieval of Duplicate Issue Reports</a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(16).pdf" style="text-decoration:none;">A Public Bug Database of GitHub Projects and its Application in Bug Prediction</a></li>
 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(17).pdf" style="text-decoration:none;">SpyBug: Automated Bug Detection in the
+Configuration Space of SAT Solvers</a></li>   
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(18).pdf" style="text-decoration:none;">Reformulating Queries for
+Duplicate Bug Report Detection</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(19).pdf" style="text-decoration:none;">Detecting Duplicate Bug Reports with Software Engineering Domain Knowledge</a></li> 
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(20).pdf" style="text-decoration:none;">Enhanced Bug Detection by Data Mining Techniques</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(21).pdf" style="text-decoration:none;">Tracking Down Software Bugs
+Using Automatic Anomaly Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(22).pdf" style="text-decoration:none;">Argus: Online Statistical Bug Detection</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(23).pdf" style="text-decoration:none;">Understanding and Detecting Real-World Performance Bugs</a></li> 
+ 
+
+   <li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(24).pdf" style="text-decoration:none;">Software Bug Detection using Data Mining</a></li>
+ 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(25).pdf" style="text-decoration:none;">A User Interaction Bug Analyzer Based on Image Processing</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(26).pdf" style="text-decoration:none;">An Approach to Detecting Duplicate Bug Reports using Natural Language and Execution Information</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Bug-Detection-Papers/blob/master/bg(27).pdf" style="text-decoration:none;">Scalable and Systematic Detection of Buggy Inconsistencies in Source Code</a></li>
+   
+
+
+
+
+
+
+
+
   </ul>
